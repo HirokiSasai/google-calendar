@@ -49,7 +49,7 @@
 
 初期値でおk（多分）
 
-＃
+# 参照
 
 [他のユーザーとカレンダーを共有する](https://support.google.com/calendar/answer/37082?hl=ja)
 
